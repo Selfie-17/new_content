@@ -1,7 +1,7 @@
 
 
 # Section 3.6: Advanced Applications
-**Same Intuition, Deeper Logic**
+
 
 
 In the previous sections, we learned that a line is defined by **Inclination** (Slope) and **Position** (Point). In these advanced problems, the inclination or position might not be given to you on a silver platter. You might have to hunt for them using geometric clues like "midpoints," "perpendicularity," or "intercept sums."
@@ -22,22 +22,19 @@ However, the core logic remains identical:
 
 
 
-
-
-**Teacher’s Thinking:**
-Usually, students rush to find lengths of sides ($AB$, $BC$, $CA$) and check if $a^2 + b^2 = c^2$. That works, but it is slow.
+Usually, we rush to find lengths of sides ($AB$, $BC$, $CA$) and check if $a^2 + b^2 = c^2$. That works, but it is slow.
 "Right Angle" is a relationship of **direction**, not distance. In coordinate geometry, the cleanest test for direction is **Slope**.
 * **The Rule:** Two lines are perpendicular if their slopes are negative reciprocals ($m_1 \cdot m_2 = -1$).
 
 
 * **Step 1: Compute Slope of Side AB**
    $$m_{AB} = \frac{y_2 - y_1}{x_2 - x_1} = \frac{5 - 4}{3 - 4} = \frac{1}{-1} = -1$$
-   *Teacher Note: This means for every step right, the line drops one step.*
+   *Note: This means for every step right, the line drops one step.*
 
 
 * **Step 2: Compute Slope of Side AC**
    $$m_{AC} = \frac{-1 - 4}{-1 - 4} = \frac{-5}{-5} = 1$$
-   *Teacher Note: This means for every step right, the line rises one step.*
+   *Note: This means for every step right, the line rises one step.*
 
 
 * **Step 3: Apply the Perpendicularity Test**
@@ -63,7 +60,7 @@ $$\boxed{\triangle ABC \text{ is right-angled at vertex } A(4,4).}$$
 
 
 
-**Teacher’s Thinking:**
+**The Thinking:**
 Slope is strictly defined based on the angle with the **positive x-axis**. Whenever a problem mentions the y-axis, it is a trap. You must translate the information back to the x-axis frame of reference.
 
 
@@ -87,7 +84,7 @@ Slope is strictly defined based on the angle with the **positive x-axis**. Whene
    $$\boxed{m_1 m_2 = 1}$$
 
 
-*Teacher Note: This reinforces that changing your reference axis flips the ratio (reciprocal).*
+*Note: This reinforces that changing your reference axis flips the ratio (reciprocal).*
 
 
 ---
@@ -101,7 +98,7 @@ Slope is strictly defined based on the angle with the **positive x-axis**. Whene
 
 
 
-**Teacher’s Thinking:**
+**The Thinking:**
 "Intercepted between axes" is code for "The line cuts the x-axis and the y-axis."
 This immediately gives us two points to work with, even if we don't know their values yet.
 * X-intercept point: $A(a, 0)$
@@ -140,7 +137,7 @@ The problem tells us the **Midpoint** of $AB$ is fixed at $(p, 2q)$. This "Posit
 
 
 
-**Teacher’s Thinking:**
+**The Thinking:**
 This problem connects two different ways of looking at a line:
 1. **Intercept Form:** Easy for drawing ($\frac{x}{a} + \frac{y}{b} = 1$).
 2. **General Form:** Required for measuring perpendicular distances ($Ax + By + C = 0$).
@@ -165,7 +162,7 @@ We need to switch from form 1 to form 2 to solve this.
 * **Step 3: Optional Simplification (Squared form)**
    Often, textbooks write this as:
    $$\frac{1}{p^2} = \frac{a^2 + b^2}{a^2 b^2} = \frac{1}{b^2} + \frac{1}{a^2}$$
-   *Teacher Note: Both answers are correct. The squared version is just algebraically prettier.*
+   *Note: Both answers are correct. The squared version is just algebraically prettier.*
 
 
 ---
@@ -175,7 +172,7 @@ We need to switch from form 1 to form 2 to solve this.
 **Question:** Find the equation of the line passing through $(1,2)$ and cutting off intercepts on the axes whose sum is 9.
 
 
-**Teacher’s Thinking:**
+**The Thinking:**
 Here we have two pieces of information:
 1. **Membership Rule:** The line must pass through $(1,2)$.
 2. **Geometric Constraint:** $x\text{-intercept} + y\text{-intercept} = 9$.

@@ -18,7 +18,7 @@ In every single case, we are looking for two things to make a line unique:
 **Question:** Find the equation of the line passing through the origin with slope $m$.
 
 
-**Teacher’s Intuition:**
+**The Intuition:**
 We already established one big truth: **Slope alone does not give you one unique line.** It gives you a "family" of parallel lines that all have the same tilt. To pick exactly *one* line from that family, we need to know where it lives. Here, we are told it passes through the origin. That locks it down.
 
 
@@ -39,8 +39,8 @@ We already established one big truth: **Slope alone does not give you one unique
 
 
 **Quick Membership Check:**
-* Test Point $(2, 2m)$: Does $2m = m(2)$? Yes. ✅ It belongs.
-* Test Point $(2, 2m+1)$: Does $2m+1 = m(2)$? No. ❌ It is rejected.
+* Test Point $(2, 2m)$: Does $2m = m(2)$? Yes. **✓** It belongs.
+* Test Point $(2, 2m+1)$: Does $2m+1 = m(2)$? No. **✕** It is rejected.
 * *Conclusion: The equation $y=mx$ is a filter. It allows only the points on this specific line to pass.*
 
 
@@ -51,7 +51,7 @@ We already established one big truth: **Slope alone does not give you one unique
 **Question:** Find the equation of the line passing through $(-4,3)$ with slope $\frac{1}{2}$.
 
 
-**Teacher’s Intuition:**
+**The Intuition:**
 This is the exact same logic as Problem 1. The slope ($\frac{1}{2}$) gives us the inclination, and the point $(-4,3)$ anchors the line to a specific location.
 
 
@@ -85,7 +85,7 @@ This is the exact same logic as Problem 1. The slope ($\frac{1}{2}$) gives us th
 
 
 
-**Teacher’s Intuition:**
+**THe Intuition:**
 Here, the inclination is given as an angle ($75^\circ$). But remember what we proved earlier: **Slope is fundamentally a ratio, not an angle.** The angle is just a convenient way to talk about that ratio. We must translate the "Angle Language" into "Ratio Language" before we can write the equation.
 
 
@@ -124,7 +124,7 @@ Here, the inclination is given as an angle ($75^\circ$). But remember what we pr
 
 
 
-**Teacher’s Intuition:**
+**The Intuition:**
 Don't let the vocabulary trick you. This is again just "Inclination + Position." The problem gives you the inclination (slope $-2$) directly. The "intercept" is just a coded way of giving you the anchor point.
 
 
@@ -152,7 +152,7 @@ Don't let the vocabulary trick you. This is again just "Inclination + Position."
 **Question:** Find the equation of the line passing through $(-1,1)$ and $(1,-4)$.
 
 
-**Teacher’s Intuition:**
+**The Intuition:**
 Here, the slope is not given directly. We must **infer** the inclination from the two points.
 Remember: Two points determine exactly one straight line because they fix both the *position* and the required *change ratio*.
 

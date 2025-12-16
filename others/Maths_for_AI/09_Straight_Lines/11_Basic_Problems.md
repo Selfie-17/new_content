@@ -139,6 +139,9 @@ We are given two positions. One point gives us a location; two points allow us t
 
 ### **Summary: The "Locus" Mental Model**
 
+A mental model is how you picture or understand something in your mind
+
+Not memorizing steps, but understanding why it works
 
 Notice that in all four examples, we did not switch "modes." We simply filled in the blanks of this single logical sentence:
 
