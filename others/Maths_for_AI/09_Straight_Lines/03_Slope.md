@@ -155,6 +155,8 @@ $$
 
 ![Hospital bed slope and parallelism illustration](hospital%20bed%20image.png)
 
+
+
 **Problem:** Arrange a row of hospital beds so that beds do not touch or overlap.
 
 **Geometric solution:** Make all beds **parallel** ($m_1 = m_2$). $$ m_1 = m_2 = m_3 = \dots $$
