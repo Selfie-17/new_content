@@ -182,8 +182,8 @@ C లాంగ్వేజ్ లోపల ఫంక్షన్ కాల్స
 
 ప్రతి రన్నింగ్ ఫంక్షన్‌ని ఒక **బాక్స్ (Frame)** లాగా ఊహించుకోండి.
 
+![alt text](Gemini_Generated_Image_hb3ytthb3ytthb3y.png)
 
-![alt text](https://github.com/meghanakondeti33/Images/blob/main/Images/Gemini_Generated_Image_hb3ytthb3ytthb3y.png)
 
 1. `main` స్టార్ట్ అయినప్పుడు, దాని బాక్స్ స్టాక్‌లో పడుతుంది.
 2. `main` గనక `func1` ని పిలిస్తే, `func1` బాక్స్ దాని పైన పడుతుంది.
